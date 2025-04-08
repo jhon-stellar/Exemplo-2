@@ -179,7 +179,7 @@ saudacao("Fiap")
 
 function semaforo(){
     let sinal ="amarelo";
-    console.log(``)
+    console.log(`O semáfor está ${sinal}`)
 }
 semaforo();
 
